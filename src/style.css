@@ -87,6 +87,12 @@ select {
 footer {
   text-align: center;
   font-size: 14px;
-  color: #718096;
+  color: #4a5568;          /* soft gray text */
+  padding: 20px;
   margin-top: 40px;
+  border-top: 1px solid #e2e8f0;  /* subtle divider */
+}
+
+footer p {
+  margin: 8px 0;
 }
